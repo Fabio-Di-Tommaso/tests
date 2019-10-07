@@ -1,6 +1,21 @@
-
-{"datiDiEsempio":
-  [
-    {"attributoMessaggio": "Messaggio di prova"}
-  ]
+{
+   "playlist-preferita":
+   [
+       {
+           "titolo": "una notte al telefono",
+           "autore": "Gigi d'Alessio"
+       }
+       , {
+           "titolo": "Non Mollare mai",
+           "autore":"Gigi d'Alessio"
+       }
+       , {
+           "titolo": "Dream On",
+           "autore": "Aerosmith"
+       }
+       , {
+           "titolo": "Non devi perdermi",
+           "autore": "Alessandra Amoroso"
+       }
+   ]
 }
